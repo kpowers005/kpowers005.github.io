@@ -11,6 +11,12 @@
 
 /* Based on meyerweb.com/eric/tools/css/reset (v2.0 | 20110126 | License: public domain) */
 
+	*
+	{
+		scroll-behavior: smooth;
+	}
+
+
 	html, body, div, span, applet, object,
 	iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 	pre, a, abbr, acronym, address, big, cite,
@@ -3311,6 +3317,11 @@
 
 		#cta h2, #cta h3, #cta h4, #cta h5, #cta h6 {
 			color: inherit;
+		}
+
+		#cta > a
+		{
+			color: #f9e6df;
 		}
 
 		#cta form {
