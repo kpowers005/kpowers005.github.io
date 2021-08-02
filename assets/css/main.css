@@ -3170,8 +3170,8 @@
 		background-attachment: scroll,							fixed;
 		background-color: #666;
 		background-image: url("https://portfoliositekp.s3.us-east-2.amazonaws.com/Screen+Shot+2021-08-02+at+6.36.43+PM.png"); /*, url("../../images/banner.jpg"); */
-		/* background-position: top left,						center center;
-		background-repeat: repeat,							no-repeat; */
+		background-position: 50%;
+		/* background-repeat: repeat,							no-repeat; */
 		background-size: cover;
 		color: #fff;
 		padding: 12em 0 20em 0;
