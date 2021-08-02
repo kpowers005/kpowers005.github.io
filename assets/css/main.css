@@ -2428,12 +2428,12 @@
 			}
 
 			.icon.major.accent2 {
-				background: #e89980;
+				background: #7fcdb8;
 				color: #ffffff;
 			}
 
 			.icon.major.accent3 {
-				background: #7fcdb8;
+				background: #e89980;
 				color: #ffffff;
 			}
 
@@ -3169,7 +3169,7 @@
 	#banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("../../images/banner.jpg");
+		background-image: url("https://portfoliositekp.s3.us-east-2.amazonaws.com/B69977D3-CFAC-40E2-93B1-F260478B0EFC_1_201_a.jpeg"), url("../../images/banner.jpg");
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
